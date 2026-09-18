@@ -2250,6 +2250,7 @@ PRODUCT_PACKAGES += \
     com.google.android.widevine.nonupdatable \
     CACertService \
     CneApp \
+    SoterService \
     IWlanService \
     TimeService \
     uimgbaservice \
